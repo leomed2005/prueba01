@@ -1,0 +1,9 @@
+Notas PowerShell
+
+Ejecutar en PS como Administrador
+«Get-ExecutionPolicy» 
+Si el comando devuelve Restricted ejecutar «Set-ExecutionPolicy Unrestricted».
+
+get-host 
+$PSVersionTable ofrece mucha más información.
+
