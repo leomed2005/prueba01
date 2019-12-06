@@ -7,3 +7,11 @@ Si el comando devuelve Restricted ejecutar «Set-ExecutionPolicy Unrestricted».
 get-host 
 $PSVersionTable ofrece mucha más información.
 
+PSVersion: La versión de Windows PowerShell.
+WSManStackVersion: La versión del stack de Web Services Management (WS-Management).
+SerializationVersion: La versión del método de serialización.
+CLRVersion: La versión del Common Language Runtime (CLR).
+BuildVersion: La versión de compilación de Windows PowerShell.
+PSCompatibleVersions: Las versiones de Windows PowerShell soportadas por la versión actual.
+PSRemotingProtocolVersion: La versión del protocolo de gestión remota de Windows PowerShell.
+
